@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test App Medium/AppDelegate.swift"
+            timestampString = "471397187.099679"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test App Medium/ViewController.swift"
+            timestampString = "471395359.089945"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_App_Medium.ViewController.ortc.getter : Swift.Optional&lt;Test_App_Medium.OrtcClass&gt;"
+                  moduleName = "Test App Medium"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gustash/Desktop/Test%20App%20Medium/Test%20App%20Medium/ViewController.swift"
+                  timestampString = "471395369.21308"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_App_Medium.ViewController.ortc.setter : Swift.Optional&lt;Test_App_Medium.OrtcClass&gt;"
+                  moduleName = "Test App Medium"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gustash/Desktop/Test%20App%20Medium/Test%20App%20Medium/ViewController.swift"
+                  timestampString = "471395369.250924"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_App_Medium.ViewController.ortc.materializeForSet : Swift.Optional&lt;Test_App_Medium.OrtcClass&gt;"
+                  moduleName = "Test App Medium"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gustash/Desktop/Test%20App%20Medium/Test%20App%20Medium/ViewController.swift"
+                  timestampString = "471395369.251487"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_App_Medium.ViewController.init (Test_App_Medium.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Test_App_Medium.ViewController"
+                  moduleName = "Test App Medium"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gustash/Desktop/Test%20App%20Medium/Test%20App%20Medium/ViewController.swift"
+                  timestampString = "471395369.251859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_App_Medium.ViewController.init (Test_App_Medium.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Test_App_Medium.ViewController&gt;"
+                  moduleName = "Test App Medium"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gustash/Desktop/Test%20App%20Medium/Test%20App%20Medium/ViewController.swift"
+                  timestampString = "471395369.252236"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test App Medium/AppDelegate.swift"
+            timestampString = "471397187.099679"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "applicationWillTerminate(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
